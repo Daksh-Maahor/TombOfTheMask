@@ -1,0 +1,11 @@
+#ifndef CONSTANTS_H_
+#define CONSTANTS_H_
+
+#define DEFAULT_CREATURE_SPEED 3.0f
+#define DEFAULT_CREATURE_SIZE  64.0f
+
+#define TILE_SIZE 64
+
+#define TEXTURE_SIZE 32
+
+#endif
